@@ -65,7 +65,7 @@ export const PORTFOLIO_DATA = {
                 "Integrated Cloudinary for media uploads.",
                 "Optimized MongoDB queries for scalability.",
             ],
-            links: { demo: "#", github: "#" },
+            links: { demo: "https://photoflow-front.onrender.com/", github: "https://github.com/shubhamshk/PhotoFLow---Full-Fledged-Social-Media-App" },
         },
         {
             title: "AI RESUME BUDDY",
@@ -77,7 +77,7 @@ export const PORTFOLIO_DATA = {
                 "Provided section-wise feedback improving quality scores by 40%.",
                 "Delivered a fully working production-ready tool.",
             ],
-            links: { demo: "#", github: "#" },
+            links: { demo: "https://ai-resume-analyser-neon.vercel.app/", github: "https://github.com/shubhamshk/Ai_Resume_Analyser" },
         },
         {
             title: "VIDEO STREAMING PLATFORM",
@@ -88,7 +88,7 @@ export const PORTFOLIO_DATA = {
                 "Established RESTful API integration with caching strategies.",
                 "Reduced data retrieval latency by 120ms.",
             ],
-            links: { demo: "#", github: "#" },
+            links: { demo: "https://movie-app-noflix.vercel.app/", github: "https://github.com/shubhamshk/Movie-app-Noflix" },
         },
     ],
     education: {

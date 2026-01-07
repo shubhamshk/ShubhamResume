@@ -36,9 +36,9 @@ export function About() {
                                 I thrive on complexity. Whether it's optimizing <span className="text-cyan-400 font-semibold">distributed systems</span> or building pixel-perfect <span className="text-purple-400 font-semibold">user interfaces</span>, I focus on delivering speed and scalability.
                             </p>
                             <div className="flex gap-4 pt-4">
-                                <Badge text="Full Stack" />
-                                <Badge text="AI Engineer" />
-                                <Badge text="System Design" />
+                                <Badge text="Frontend Engineer" />
+                                <Badge text="Backend Engineer" />
+                                <Badge text="Devops Engineer" />
                             </div>
                         </div>
                     </div>
