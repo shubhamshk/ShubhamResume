@@ -60,7 +60,7 @@ export function Hero() {
     return (
         <section
             ref={containerRef}
-            className="relative min-h-[110vh] flex flex-col items-center justify-center overflow-hidden bg-[#030014] pb-20 pt-40 md:pt-20"
+            className="relative min-h-[110vh] flex flex-col items-center justify-center pb-20 pt-40 md:pt-20"
         >
 
 

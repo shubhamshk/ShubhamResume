@@ -18,7 +18,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark scroll-smooth">
-      <body className={`${inter.variable} ${spaceGrotesk.variable} antialiased bg-[#030014] overflow-y-scroll overflow-x-hidden`}>
+      <body className={`${inter.variable} ${spaceGrotesk.variable} antialiased bg-[#030014] overflow-x-hidden`}>
         <StarsCanvas />
         {children}
       </body>
